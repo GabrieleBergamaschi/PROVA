@@ -2,3 +2,8 @@
 ## Gruppo AM20
 
 - ### 10713379  Gabriele Bergamaschi ([@GabrieleBergamaschi](https://github.com/GabrieleBergamaschi)) <br>gabriele.bergamaschi@mail.polimi.it
+
+| Functionality  |          state          |
+|:---------------|:-----------------------:|
+| Socket         | 🔴 |
+| GUI            | 🔴 |
