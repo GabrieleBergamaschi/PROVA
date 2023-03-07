@@ -6,6 +6,10 @@ package it.polimi.it;
  */
 public class App 
 {
+    /**
+     *
+     * prova di un commento
+     */
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
