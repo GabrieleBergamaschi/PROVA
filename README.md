@@ -3,9 +3,18 @@
 
 - ### 10713379  Gabriele Bergamaschi ([@GabrieleBergamaschi](https://github.com/GabrieleBergamaschi)) <br>gabriele.bergamaschi@mail.polimi.it
 
-
+## Functionality
 
 | Functionality  |          State          |
 |:---------------|:-----------------------:|
-| Socket         | 🔴 |
+| Basic Rules    | 🔴 |
+| Complete Rules | 🔴 |
+| TUI            | 🔴 |
 | GUI            | 🔴 |
+| RMI            | 🔴 |
+| Socket         | 🔴 |
+| Persistence    | 🔴 |
+| Chat           | 🔴 |
+| Resilience     | 🔴 |
+| Multiple Games | 🔴 |
+
